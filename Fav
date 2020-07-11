@@ -1,0 +1,163 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport", AU | Fox Sports News,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport", Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,US: FOX Soccer Plus
+http://csrv.tv:80/nfljr/tvn58/40302
+
+#EXTINF:-1,US: FOX Sports 1
+http://csrv.tv:80/nfljr/tvn58/40301
+
+#EXTINF:-1,US: FOX Sports 2
+http://csrv.tv:80/nfljr/tvn58/40300
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Fox Sports 6
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/152?checkedby:iptvcat.com
+
+#EXTINF:-1,US: GolTV (English)
+http://csrv.tv:80/nfljr/tvn58/40290
+
+#EXTINF:-1,US: GolTV (Spanish)
+http://csrv.tv:80/nfljr/tvn58/40289
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="Undefined", Gol Tv Ecuador,VTV
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OxIKeaX.jpg" group-title="Sport", GOLTV
+https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Sport", Claro Sports
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,US: TyC Sports
+http://csrv.tv:80/nfljr/tvn58/40151
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FgyiahB.png" group-title="Sport", SPORT : BeIN Sports Xtra,SPORT | BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
+
+#EXTINF:-1,US: beIN La Liga
+http://csrv.tv:80/nfljr/tvn58/40360
+
+#EXTINF:-1,US: beIN SPORTS
+http://csrv.tv:80/nfljr/tvn58/40359
+
+#EXTINF:-1,US: beIN Sports Canada
+http://csrv.tv:80/nfljr/tvn58/40353
+
+#EXTINF:-1,US: beIN SPORTS En Espanol
+http://csrv.tv:80/nfljr/tvn58/40352
+
+#EXTINF:-1,US: beIN SPORTS 4
+http://csrv.tv:80/nfljr/tvn58/40358
+
+#EXTINF:-1,US: beIN SPORTS 5
+http://csrv.tv:80/nfljr/tvn58/40357
+
+#EXTINF:-1,US: beIN SPORTS 6
+http://csrv.tv:80/nfljr/tvn58/40356
+
+#EXTINF:-1,US: beIN SPORTS 7
+http://csrv.tv:80/nfljr/tvn58/40355
+
+#EXTINF:-1,US: beIN SPORTS 8
+http://csrv.tv:80/nfljr/tvn58/40354
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sport", ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Undefined", Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Extreme sports
+http://vs-msk-02.tv.ti.ru:80/dtv/id213_NBN_SG--ExtremeSport/03/plst.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,US: Eleven Sports Network
+http://csrv.tv:80/nfljr/tvn58/40310
+
+#EXTINF:-1,US: NBC Sports Bay Area
+http://csrv.tv:80/nfljr/tvn58/40253
+
+#EXTINF:-1,US: NBC Sports Bay Area+
+http://csrv.tv:80/nfljr/tvn58/40252
+
+#EXTINF:-1,US: NBC Sports Boston
+http://csrv.tv:80/nfljr/tvn58/40251
+
+#EXTINF:-1,US: NBC Sports California
+http://csrv.tv:80/nfljr/tvn58/40250
+
+#EXTINF:-1,US: NBC Sports California+
+http://csrv.tv:80/nfljr/tvn58/40249
+
+#EXTINF:-1,US: NBC Sports Chicago
+http://csrv.tv:80/nfljr/tvn58/40248
+
+#EXTINF:-1,US: NBC Sports Chicago Plus
+http://csrv.tv:80/nfljr/tvn58/40247
+
+#EXTINF:-1,US: NBC Sports Northwest
+http://csrv.tv:80/nfljr/tvn58/40246
+
+#EXTINF:-1,US: NBC Sports Philly
+http://csrv.tv:80/nfljr/tvn58/40245
+
+#EXTINF:-1,US: NBC Sports Philly Plus
+http://csrv.tv:80/nfljr/tvn58/40244
+
+#EXTINF:-1,US: NBC Sports Washington
+http://csrv.tv:80/nfljr/tvn58/40243
+
+#EXTINF:-1,US: NBC Sports Washington Plus
+http://csrv.tv:80/nfljr/tvn58/40242
+
+#EXTINF:-1,US: NBA TV
+http://csrv.tv:80/nfljr/tvn58/40254
+
+#EXTINF:-1,TruTV FHD
+http://csrv.tv:80/nfljr/tvn58/1961
+
+#EXTINF:-1,TruTV FHD [H265]
+http://csrv.tv:80/nfljr/tvn58/25350
+
+#EXTINF:-1,TruTV HD
+http://csrv.tv:80/nfljr/tvn58/1690
+
+#EXTINF:-1,TruTV SD
+http://csrv.tv:80/nfljr/tvn58/1691
+
+#EXTINF:-1,US: MTV Classic
+http://csrv.tv:80/nfljr/tvn58/40259
+
+#EXTINF:-1,US: MTV
+http://csrv.tv:80/nfljr/tvn58/40261
+
+#EXTINF:-1,US: MTV (Alternate)
+http://csrv.tv:80/nfljr/tvn58/40260
+
+#EXTINF:-1,US: MTV Live
+http://csrv.tv:80/nfljr/tvn58/40258
+
+#EXTINF:-1,US: MTV2 (East)
+http://csrv.tv:80/nfljr/tvn58/40257
+
+#EXTINF:-1,US: MTV2 (West)
+http://csrv.tv:80/nfljr/tvn58/40256
+
+#EXTINF:-1,US: MTVU
+http://csrv.tv:80/nfljr/tvn58/40255
+
+
+
