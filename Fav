@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:Beetlejuice_film_poster.jpg" group-title="Filme", Os Fantasmas se Divertem
+http://ppns.io:80/movie/Emily1/123456/40523.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport", AU | Fox Sports News,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:iptvcat.com
 
@@ -9,14 +12,14 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1,US: FOX Soccer Plus
 http://csrv.tv:80/nfljr/tvn58/40302
 
+#EXTINF:-1,US: FOX Deportes
+http://srvx.io:80/nfljr/tvn58/40304
+
 #EXTINF:-1,US: FOX Sports 1
 http://csrv.tv:80/nfljr/tvn58/40301
 
 #EXTINF:-1,US: FOX Sports 2
 http://csrv.tv:80/nfljr/tvn58/40300
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Fox Sports 6
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/152?checkedby:iptvcat.com
 
 #EXTINF:-1,US: GolTV (English)
 http://csrv.tv:80/nfljr/tvn58/40290
@@ -159,5 +162,110 @@ http://csrv.tv:80/nfljr/tvn58/40256
 #EXTINF:-1,US: MTVU
 http://csrv.tv:80/nfljr/tvn58/40255
 
+#EXTINF:-1,Sky Sports Premier League FHD UK
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/671301
 
+#EXTINF:-1,Eleven Sports 1 FHD UK
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/53154
 
+#EXTINF:-1,BT Sport ESPN FHD UK
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/6643
+
+#EXTINF:-1,ESPN News HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/4935
+
+#EXTINF:-1,ESPN FHD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/14405
+
+#EXTINF:-1,ESPN HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/14363
+
+#EXTINF:-1,ESPN 2 FHD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/13749
+
+#EXTINF:-1,ESPN 2 HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677173
+
+#EXTINF:-1,ESPN 3 FHD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/6708
+
+#EXTINF:-1,ESPN U HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677140
+
+#EXTINF:-1,ESPN U US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/33498
+
+#EXTINF:-1,ESPN+ HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/6707
+
+#EXTINF:-1,ESPN Sec Network HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677141
+
+#EXTINF:-1,ESPN Deportes HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677142
+
+#EXTINF:-1,Fox Deportes US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/494543
+
+#EXTINF:-1,Fox College Sports Central HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677167
+
+#EXTINF:-1,Fox Sports Prime Ticket HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677149
+
+#EXTINF:-1,Fox Sports 1 FHD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/137256
+
+#EXTINF:-1,Fox Sports HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/14562
+
+#EXTINF:-1,Fox Sports 1 US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/63735
+
+#EXTINF:-1,Fox Sports 2 HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/494259
+
+#EXTINF:-1,Fox Sports 2 US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/63365
+
+#EXTINF:-1,Fox Sports Soccer Plus HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677143
+
+#EXTINF:-1,Sportsman HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677145
+
+#EXTINF:-1,Stadium HD Original US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677146
+
+#EXTINF:-1,BTN Sports HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677147
+
+#EXTINF:-1,BTN Sports US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/4884
+
+#EXTINF:-1,Eurosports 1 FHD UK
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/671327
+
+#EXTINF:-1,Eurosports 1 HD UK
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/6609
+
+#EXTINF:-1,EuroSports 2 FHD UK
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/671328
+
+#EXTINF:-1,Eurosports 2 HD UK
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/671398
+
+#EXTINF:-1,SPORTS | NBA TV HD
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/5450
+
+#EXTINF:-1,Cartoon Network FHD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/4886
+
+#EXTINF:-1,Cartoon Network HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/14387
+
+#EXTINF:-1,Cartoon Network FHD UK
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/671326
+
+#EXTINF:-1,Cartoon Network HD UK
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/15781
