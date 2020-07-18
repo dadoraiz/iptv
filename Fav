@@ -1,31 +1,70 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:Beetlejuice_film_poster.jpg" group-title="Filme", Os Fantasmas se Divertem
-http://ppns.io:80/movie/Emily1/123456/40523.mp4
+#EXTINF:-1,Os Fantasmas se Divertem
+http://srvx.io:80/movie/michael2260/michael4278/21262.mp4
+
+#EXTINF:-1,TruTV FHD
+http://srvx.io:80/michael2260/michael4278/1961
+
+#EXTINF:-1,TruTV FHD [H265]
+http://srvx.io:80/michael2260/michael4278/25350
+
+#EXTINF:-1,TruTV HD
+http://srvx.io:80/michael2260/michael4278/1690
+
+#EXTINF:-1,TruTV SD
+http://srvx.io:80/michael2260/michael4278/1691
+
+#EXTINF:-1,US: Cartoon Network (East)
+http://srvx.io:80/michael2260/michael4278/40341
+
+#EXTINF:-1,US: Cartoon Network (West)
+http://srvx.io:80/michael2260/michael4278/40340
+
+#EXTINF:-1,US: Nickelodeon (East)
+http://srvx.io:80/michael2260/michael4278/40232
+
+#EXTINF:-1,US: Nickelodeon (West)
+http://srvx.io:80/michael2260/michael4278/40231
+
+#EXTINF:-1,US: Nicktoons
+http://srvx.io:80/michael2260/michael4278/40229
+
+#EXTINF:-1,US: MTV
+http://srvx.io:80/michael2260/michael4278/40261
+
+#EXTINF:-1,US: MTV (Alternate)
+http://srvx.io:80/michael2260/michael4278/40260
+
+#EXTINF:-1,US: MTV Classic
+http://srvx.io:80/michael2260/michael4278/40259
+
+#EXTINF:-1,US: MTV Live
+http://srvx.io:80/michael2260/michael4278/40258
+
+#EXTINF:-1,US: MTV2 (East)
+http://srvx.io:80/michael2260/michael4278/40257
+
+#EXTINF:-1,US: MTV2 (West)
+http://srvx.io:80/michael2260/michael4278/40256
+
+#EXTINF:-1,US: MTVU
+http://srvx.io:80/michael2260/michael4278/40255
+
+#EXTINF:-1,US: CNN
+http://srvx.io:80/michael2260/michael4278/40331
+
+#EXTINF:-1,US: CNN en Espanol
+http://srvx.io:80/michael2260/michael4278/40330
+
+#EXTINF:-1,US: CNN International
+http://srvx.io:80/michael2260/michael4278/40329
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport", AU | Fox Sports News,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport", Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1,US: FOX Soccer Plus
-http://csrv.tv:80/nfljr/tvn58/40302
-
-#EXTINF:-1,US: FOX Deportes
-http://srvx.io:80/nfljr/tvn58/40304
-
-#EXTINF:-1,US: FOX Sports 1
-http://csrv.tv:80/nfljr/tvn58/40301
-
-#EXTINF:-1,US: FOX Sports 2
-http://csrv.tv:80/nfljr/tvn58/40300
-
-#EXTINF:-1,US: GolTV (English)
-http://csrv.tv:80/nfljr/tvn58/40290
-
-#EXTINF:-1,US: GolTV (Spanish)
-http://csrv.tv:80/nfljr/tvn58/40289
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="Undefined", Gol Tv Ecuador,VTV
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/master.m3u8?checkedby:iptvcat.com
@@ -36,38 +75,8 @@ https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/master.m3u8?checkedby:ip
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Sport", Claro Sports
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,US: TyC Sports
-http://csrv.tv:80/nfljr/tvn58/40151
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FgyiahB.png" group-title="Sport", SPORT : BeIN Sports Xtra,SPORT | BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
-
-#EXTINF:-1,US: beIN La Liga
-http://csrv.tv:80/nfljr/tvn58/40360
-
-#EXTINF:-1,US: beIN SPORTS
-http://csrv.tv:80/nfljr/tvn58/40359
-
-#EXTINF:-1,US: beIN Sports Canada
-http://csrv.tv:80/nfljr/tvn58/40353
-
-#EXTINF:-1,US: beIN SPORTS En Espanol
-http://csrv.tv:80/nfljr/tvn58/40352
-
-#EXTINF:-1,US: beIN SPORTS 4
-http://csrv.tv:80/nfljr/tvn58/40358
-
-#EXTINF:-1,US: beIN SPORTS 5
-http://csrv.tv:80/nfljr/tvn58/40357
-
-#EXTINF:-1,US: beIN SPORTS 6
-http://csrv.tv:80/nfljr/tvn58/40356
-
-#EXTINF:-1,US: beIN SPORTS 7
-http://csrv.tv:80/nfljr/tvn58/40355
-
-#EXTINF:-1,US: beIN SPORTS 8
-http://csrv.tv:80/nfljr/tvn58/40354
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", ALL Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
@@ -87,185 +96,774 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?checkedby:ip
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", FOX Sport HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:iptvcat.com
 
+
+#EXTINF:-1,US: beIN La Liga
+http://srvx.io:80/michael2260/michael4278/40360
+
+#EXTINF:-1,US: beIN SPORTS
+http://srvx.io:80/michael2260/michael4278/40359
+
+#EXTINF:-1,US: beIN SPORTS 4
+http://srvx.io:80/michael2260/michael4278/40358
+
+#EXTINF:-1,US: beIN SPORTS 5
+http://srvx.io:80/michael2260/michael4278/40357
+
+#EXTINF:-1,US: beIN SPORTS 6
+http://srvx.io:80/michael2260/michael4278/40356
+
+#EXTINF:-1,US: beIN SPORTS 7
+http://srvx.io:80/michael2260/michael4278/40355
+
+#EXTINF:-1,US: beIN SPORTS 8
+http://srvx.io:80/michael2260/michael4278/40354
+
+#EXTINF:-1,US: beIN Sports Canada
+http://srvx.io:80/michael2260/michael4278/40353
+
+#EXTINF:-1,US: beIN SPORTS En Espanol
+http://srvx.io:80/michael2260/michael4278/40352
+
 #EXTINF:-1,US: Eleven Sports Network
-http://csrv.tv:80/nfljr/tvn58/40310
+http://srvx.io:80/michael2260/michael4278/40310
 
-#EXTINF:-1,US: NBC Sports Bay Area
-http://csrv.tv:80/nfljr/tvn58/40253
+#EXTINF:-1,US: FNTSY Sports Network
+http://srvx.io:80/michael2260/michael4278/40309
 
-#EXTINF:-1,US: NBC Sports Bay Area+
-http://csrv.tv:80/nfljr/tvn58/40252
+#EXTINF:-1,US: FOX Deportes
+http://srvx.io:80/michael2260/michael4278/40304
 
-#EXTINF:-1,US: NBC Sports Boston
-http://csrv.tv:80/nfljr/tvn58/40251
+#EXTINF:-1,US: FOX Soccer Plus
+http://srvx.io:80/michael2260/michael4278/40302
 
-#EXTINF:-1,US: NBC Sports California
-http://csrv.tv:80/nfljr/tvn58/40250
+#EXTINF:-1,US: FOX Sports 1
+http://srvx.io:80/michael2260/michael4278/40301
 
-#EXTINF:-1,US: NBC Sports California+
-http://csrv.tv:80/nfljr/tvn58/40249
+#EXTINF:-1,US: FOX Sports 2
+http://srvx.io:80/michael2260/michael4278/40300
 
-#EXTINF:-1,US: NBC Sports Chicago
-http://csrv.tv:80/nfljr/tvn58/40248
+#EXTINF:-1,US: fubo Cycling
+http://srvx.io:80/michael2260/michael4278/40299
 
-#EXTINF:-1,US: NBC Sports Chicago Plus
-http://csrv.tv:80/nfljr/tvn58/40247
+#EXTINF:-1,US: fubo Sports Network
+http://srvx.io:80/michael2260/michael4278/40298
 
-#EXTINF:-1,US: NBC Sports Northwest
-http://csrv.tv:80/nfljr/tvn58/40246
+#EXTINF:-1,US: GINX eSports
+http://srvx.io:80/michael2260/michael4278/40291
 
-#EXTINF:-1,US: NBC Sports Philly
-http://csrv.tv:80/nfljr/tvn58/40245
+#EXTINF:-1,US: GolTV (English)
+http://srvx.io:80/michael2260/michael4278/40290
 
-#EXTINF:-1,US: NBC Sports Philly Plus
-http://csrv.tv:80/nfljr/tvn58/40244
-
-#EXTINF:-1,US: NBC Sports Washington
-http://csrv.tv:80/nfljr/tvn58/40243
-
-#EXTINF:-1,US: NBC Sports Washington Plus
-http://csrv.tv:80/nfljr/tvn58/40242
+#EXTINF:-1,US: GolTV (Spanish)
+http://srvx.io:80/michael2260/michael4278/40289
 
 #EXTINF:-1,US: NBA TV
-http://csrv.tv:80/nfljr/tvn58/40254
+http://srvx.io:80/michael2260/michael4278/40254
 
-#EXTINF:-1,TruTV FHD
-http://csrv.tv:80/nfljr/tvn58/1961
+#EXTINF:-1,US: NBC Sports Bay Area
+http://srvx.io:80/michael2260/michael4278/40253
 
-#EXTINF:-1,TruTV FHD [H265]
-http://csrv.tv:80/nfljr/tvn58/25350
+#EXTINF:-1,US: NBC Sports Bay Area+
+http://srvx.io:80/michael2260/michael4278/40252
 
-#EXTINF:-1,TruTV HD
-http://csrv.tv:80/nfljr/tvn58/1690
+#EXTINF:-1,US: NBC Sports Boston
+http://srvx.io:80/michael2260/michael4278/40251
 
-#EXTINF:-1,TruTV SD
-http://csrv.tv:80/nfljr/tvn58/1691
+#EXTINF:-1,US: NBC Sports California
+http://srvx.io:80/michael2260/michael4278/40250
 
-#EXTINF:-1,US: MTV Classic
-http://csrv.tv:80/nfljr/tvn58/40259
+#EXTINF:-1,US: NBC Sports California+
+http://srvx.io:80/michael2260/michael4278/40249
 
-#EXTINF:-1,US: MTV
-http://csrv.tv:80/nfljr/tvn58/40261
+#EXTINF:-1,US: NBC Sports Chicago
+http://srvx.io:80/michael2260/michael4278/40248
 
-#EXTINF:-1,US: MTV (Alternate)
-http://csrv.tv:80/nfljr/tvn58/40260
+#EXTINF:-1,US: NBC Sports Chicago Plus
+http://srvx.io:80/michael2260/michael4278/40247
 
-#EXTINF:-1,US: MTV Live
-http://csrv.tv:80/nfljr/tvn58/40258
+#EXTINF:-1,US: NBC Sports Northwest
+http://srvx.io:80/michael2260/michael4278/40246
 
-#EXTINF:-1,US: MTV2 (East)
-http://csrv.tv:80/nfljr/tvn58/40257
+#EXTINF:-1,US: NBC Sports Philly
+http://srvx.io:80/michael2260/michael4278/40245
 
-#EXTINF:-1,US: MTV2 (West)
-http://csrv.tv:80/nfljr/tvn58/40256
+#EXTINF:-1,US: NBC Sports Philly Plus
+http://srvx.io:80/michael2260/michael4278/40244
 
-#EXTINF:-1,US: MTVU
-http://csrv.tv:80/nfljr/tvn58/40255
+#EXTINF:-1,US: NBC Sports Washington
+http://srvx.io:80/michael2260/michael4278/40243
 
-#EXTINF:-1,Sky Sports Premier League FHD UK
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/671301
+#EXTINF:-1,US: NBC Sports Washington Plus
+http://srvx.io:80/michael2260/michael4278/40242
 
-#EXTINF:-1,Eleven Sports 1 FHD UK
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/53154
+#EXTINF:-1,US: NFL Network
+http://srvx.io:80/michael2260/michael4278/40236
 
-#EXTINF:-1,BT Sport ESPN FHD UK
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/6643
+#EXTINF:-1,US: NFL Redzone
+http://srvx.io:80/michael2260/michael4278/40235
+
+#EXTINF:-1,US: Olympic Channel
+http://srvx.io:80/michael2260/michael4278/40225
+
+#EXTINF:-1,US: Sportsman Channel
+http://srvx.io:80/michael2260/michael4278/40200
+
+#EXTINF:-1,US: SportsNet NY
+http://srvx.io:80/michael2260/michael4278/40199
+
+#EXTINF:-1,US: SportsNet Southwest
+http://srvx.io:80/michael2260/michael4278/40198
+
+#EXTINF:-1,US: Sportsnet Southwest (Alternate)
+http://srvx.io:80/michael2260/michael4278/40197
+
+#EXTINF:-1,US: TeleDeporte
+http://srvx.io:80/michael2260/michael4278/40186
+
+#EXTINF:-1,US: Tennis Channel
+http://srvx.io:80/michael2260/michael4278/40181
+
+#EXTINF:-1,US: The Fight Network
+http://srvx.io:80/michael2260/michael4278/40180
+
+#EXTINF:-1,US: The Golf Channel
+http://srvx.io:80/michael2260/michael4278/40179
+
+#EXTINF:-1,US: TyC Sports
+http://srvx.io:80/michael2260/michael4278/40151
+
+#EXTINF:-1,US: Zona Futbol
+http://srvx.io:80/michael2260/michael4278/40138
+
+#EXTINF:-1,beIN Sports FHD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/13759
+
+#EXTINF:-1,beIN Sports FHD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/13759
+
+#EXTINF:-1,beIN Sports FHD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/13759
+
+#EXTINF:-1,beiN Sports HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/4902
+
+#EXTINF:-1,beiN Sports HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/4902
+
+#EXTINF:-1,beiN Sports HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/4902
+
+#EXTINF:-1,bein Sports Espagnol US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677144
+
+#EXTINF:-1,bein Sports Espagnol US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677144
+
+#EXTINF:-1,bein Sports Espagnol US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677144
+
+#EXTINF:-1,CBS Sports Network HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/14385
+
+#EXTINF:-1,CBS Sports Network HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/14385
+
+#EXTINF:-1,CBS Sports Network HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/14385
 
 #EXTINF:-1,ESPN News HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/4935
+
+#EXTINF:-1,ESPN News HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/4935
+
+#EXTINF:-1,ESPN News HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/4935
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN News HD US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/4935
 
 #EXTINF:-1,ESPN FHD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/14405
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN FHD US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/14405
 
+#EXTINF:-1,ESPN FHD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/14405
+
+#EXTINF:-1,ESPN FHD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/14405
+
 #EXTINF:-1,ESPN HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/14363
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN HD US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/14363
 
+#EXTINF:-1,ESPN HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/14363
+
+#EXTINF:-1,ESPN HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/14363
+
 #EXTINF:-1,ESPN 2 FHD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/13749
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN 2 FHD US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/13749
 
+#EXTINF:-1,ESPN 2 FHD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/13749
+
+#EXTINF:-1,ESPN 2 FHD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/13749
+
 #EXTINF:-1,ESPN 2 HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677173
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN 2 HD US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677173
 
+#EXTINF:-1,ESPN 2 HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677173
+
+#EXTINF:-1,ESPN 2 HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677173
+
 #EXTINF:-1,ESPN 3 FHD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/6708
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN 3 FHD US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/6708
 
+#EXTINF:-1,ESPN 3 FHD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/6708
+
+#EXTINF:-1,ESPN 3 FHD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/6708
+
 #EXTINF:-1,ESPN U HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677140
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN U HD US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677140
 
+#EXTINF:-1,ESPN U HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677140
+
+#EXTINF:-1,ESPN U HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677140
+
 #EXTINF:-1,ESPN U US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/33498
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN U US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/33498
 
+#EXTINF:-1,ESPN U US
+http://mytv.fun:8080/lavdrim/pu2fytknk/33498
+
+#EXTINF:-1,ESPN U US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/33498
+
 #EXTINF:-1,ESPN+ HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/6707
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN+ HD US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/6707
 
+#EXTINF:-1,ESPN+ HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/6707
+
+#EXTINF:-1,ESPN+ HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/6707
+
 #EXTINF:-1,ESPN Sec Network HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677141
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPN Sec Network HD US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677141
 
+#EXTINF:-1,ESPN Sec Network HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677141
+
+#EXTINF:-1,ESPN Sec Network HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677141
+
 #EXTINF:-1,ESPN Deportes HD US
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677142
+http://mytv.fun:8080/lavdrim/pu2fytknk/677142
+
+#EXTINF:-1,ESPN Deportes HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677142
+
+#EXTINF:-1,ESPN Deportes HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677142
 
 #EXTINF:-1,Fox Deportes US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/494543
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Deportes US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/494543
 
-#EXTINF:-1,Fox College Sports Central HD US
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677167
+#EXTINF:-1,Fox Deportes US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/494543
 
-#EXTINF:-1,Fox Sports Prime Ticket HD US
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677149
+#EXTINF:-1,Fox Deportes US
+http://mytv.fun:8080/lavdrim/pu2fytknk/494543
 
-#EXTINF:-1,Fox Sports 1 FHD US
+#EXTINF:-1,FOX Soccer Plus HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/14408
+
+#EXTINF:-1,FOX Soccer Plus HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/14408
+
+#EXTINF:-1,FOX Soccer Plus HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/14408
+
+#EXTINF:-1,Fox Sports Soccer Plus HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677143
+
+#EXTINF:-1,Fox Sports Soccer Plus HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677143
+
+#EXTINF:-1,Fox Sports Soccer Plus HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677143
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Sports Soccer Plus HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677143
+
+#EXTINF:-1,Fox Sports  FHD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/137256
+
+#EXTINF:-1,Fox Sports  FHD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/137256
+
+#EXTINF:-1,Fox Sports  FHD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/137256
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Sports 1 FHD US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/137256
 
 #EXTINF:-1,Fox Sports HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/14562
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Sports HD US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/14562
 
-#EXTINF:-1,Fox Sports 1 US
+#EXTINF:-1,Fox Sports HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/14562
+
+#EXTINF:-1,Fox Sports HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/14562
+
+#EXTINF:-1,Fox Sports  US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/63735
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Sports US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/63735
 
+#EXTINF:-1,Fox Sports  US
+http://mytv.fun:8080/lavdrim/pu2fytknk/63735
+
+#EXTINF:-1,Fox Sports  US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/63735
+
 #EXTINF:-1,Fox Sports 2 HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/494259
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Sports 2 HD US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/494259
 
+#EXTINF:-1,Fox Sports 2 HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/494259
+
+#EXTINF:-1,Fox Sports 2 HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/494259
+
 #EXTINF:-1,Fox Sports 2 US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/63365
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Sports 2 US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/63365
 
-#EXTINF:-1,Fox Sports Soccer Plus HD US
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677143
+#EXTINF:-1,Fox Sports 2 US
+http://mytv.fun:8080/lavdrim/pu2fytknk/63365
+
+#EXTINF:-1,Fox Sports 2 US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/63365
+
+#EXTINF:-1,Fox Sports Prime Ticket HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677149
+
+#EXTINF:-1,Fox Sports Prime Ticket HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677149
+
+#EXTINF:-1,Fox Sports Prime Ticket HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677149
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox Sports Prime Ticket HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677149
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fox College Sports Central HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677167
 
 #EXTINF:-1,Sportsman HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677145
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Sportsman HD US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677145
 
-#EXTINF:-1,Stadium HD Original US
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677146
+#EXTINF:-1,Sportsman HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677145
+
+#EXTINF:-1,Sportsman HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677145
 
 #EXTINF:-1,BTN Sports HD US
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677147
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677147
 
 #EXTINF:-1,BTN Sports US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/4884
+
+#EXTINF:-1,BTN Sports HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677147
+
+#EXTINF:-1,BTN Sports US
+http://mytv.fun:8080/lavdrim/pu2fytknk/4884
+
+#EXTINF:-1,BTN Sports HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677147
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BTN Sports HD US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677147
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Stadium HD Original US
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/677146
+
+#EXTINF:-1,BTN Sports US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/4884
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BTN Sports US
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/4884
 
+#EXTINF:-1,NBC Sports Network HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/14403
+
+#EXTINF:-1,NBC Sports Network HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/14403
+
+#EXTINF:-1,NBC Sports Network HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/14403
+
+#EXTINF:-1,NBC Sports Network FHD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677133
+
+#EXTINF:-1,NBC Sports Network FHD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677133
+
+#EXTINF:-1,NBC Sports Network FHD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677133
+
+#EXTINF:-1,NBC Sports Network HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/4952
+
+#EXTINF:-1,NBC Sports Network HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/4952
+
+#EXTINF:-1,NBC Sports Network HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/4952
+
+#EXTINF:-1,NBC Sports Bay Area HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677158
+
+#EXTINF:-1,NBC Sports Bay Area HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677158
+
+#EXTINF:-1,NBC Sports Bay Area HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677158
+
+#EXTINF:-1,NBC Sports Boston FHD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677159
+
+#EXTINF:-1,NBC Sports Boston FHD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677159
+
+#EXTINF:-1,NBC Sports Boston FHD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677159
+
+#EXTINF:-1,NBC Sports California FHD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677160
+
+#EXTINF:-1,NBC Sports California FHD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677160
+
+#EXTINF:-1,NBC Sports California FHD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677160
+
+#EXTINF:-1,NBC Sports Chicago HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677161
+
+#EXTINF:-1,NBC Sports Chicago HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677161
+
+#EXTINF:-1,NBC Sports Chicago HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677161
+
+#EXTINF:-1,NBC Sports Plus Chicago HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677162
+
+#EXTINF:-1,NBC Sports Plus Chicago HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677162
+
+#EXTINF:-1,NBC Sports Plus Chicago HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677162
+
+#EXTINF:-1,NBC Sports Philadelphia HD US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677163
+
+#EXTINF:-1,NBC Sports Philadelphia HD US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677163
+
+#EXTINF:-1,NBC Sports Philadelphia HD US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677163
+
+#EXTINF:-1,NBC Sports Philadelphia US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677164
+
+#EXTINF:-1,NBC Sports Philadelphia US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677164
+
+#EXTINF:-1,NBC Sports Philadelphia US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677164
+
+#EXTINF:-1,NBC Sports Washington HD  US
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677165
+
+#EXTINF:-1,NBC Sports Washington HD  US
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677165
+
+#EXTINF:-1,NBC Sports Washington HD  US
+http://mytv.fun:8080/lavdrim/pu2fytknk/677165
+
+#EXTINF:-1,Sky Sports News HD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/15701
+
+#EXTINF:-1,Sky Sports News HD UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/15701
+
+#EXTINF:-1,Sky Sports News HD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/15701
+
+#EXTINF:-1,Sky Sports Action FHD UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/674009
+
+#EXTINF:-1,Sky Sports Action HD UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/674010
+
+#EXTINF:-1,Sky Sports Action UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/674011
+
+#EXTINF:-1,Sky Sports Action FHD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/674009
+
+#EXTINF:-1,Sky Sports Action HD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/674010
+
+#EXTINF:-1,Sky Sports Action UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/674011
+
+#EXTINF:-1,Sky Sports Action FHD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/674009
+
+#EXTINF:-1,Sky Sports Action HD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/674010
+
+#EXTINF:-1,Sky Sports Action UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/674011
+
+#EXTINF:-1,Sky Sports Premier League FHD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/671420
+
+#EXTINF:-1,Sky Sports Premier League FHD UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/671420
+
+#EXTINF:-1,Sky Sports Premier League FHD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/671420
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Sky Sports Premier League FHD UK
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/671301
+
+#EXTINF:-1,Sky Sports Premier League HD UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/15700
+
+#EXTINF:-1,Sky Sports Premier League HD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/15700
+
+#EXTINF:-1,Sky Sports Premier League HD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/15700
+
+#EXTINF:-1,Sky Sports Football HD UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/625255
+
+#EXTINF:-1,Sky Sports Football HD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/625255
+
+#EXTINF:-1,Sky Sports Football HD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/625255
+
+#EXTINF:-1,Sky Sports Football UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/53165
+
+#EXTINF:-1,Sky Sports Football UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/53165
+
+#EXTINF:-1,Sky Sports Football UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/53165
+
+#EXTINF:-1,Sky Sports Football FHD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/625258
+
+#EXTINF:-1,Sky Sports Football FHD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/625258
+
+#EXTINF:-1,Eleven Sports 1 FHD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/53154
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Eleven Sports 1 FHD UK
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/53154
+
+#EXTINF:-1,Eleven Sports 1 FHD UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/53154
+
+#EXTINF:-1,Eleven Sports 1 FHD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/53154
+
+#EXTINF:-1,Eir Sports 1 FHD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/671329
+
+#EXTINF:-1,Eir Sports 1 FHD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/671329
+
+#EXTINF:-1,Eir Sport 1 UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/6612
+
+#EXTINF:-1,Eir Sport 2 UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/6611
+
+#EXTINF:-1,Eir Sports 2 FHD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/657010
+
+#EXTINF:-1,Eir Sports 2 FHD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/657010
+
+#EXTINF:-1,Sony ESPN IN
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/3991
+
+#EXTINF:-1,BT Sport 1 HD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677901
+
+#EXTINF:-1,BT Sport 2 HD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677902
+
+#EXTINF:-1,BT Sport 3 HD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/677903
+
+#EXTINF:-1,BT Sport Extra 1 UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/6641
+
+#EXTINF:-1,BT Sport Extra 2 UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/6640
+
+#EXTINF:-1,BT Sport Extra 3 UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/7918
+
+#EXTINF:-1,BT Sport Extra 4 UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/7917
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BT Sport ESPN FHD UK
+http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/6643
+
+#EXTINF:-1,BT Sport ESPN FHD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/6643
+
+#EXTINF:-1,BT Sport ESPN HD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/15738
+
 #EXTINF:-1,Eurosports 1 FHD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/671327
+
+#EXTINF:-1,Eurosports 1 HD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/6609
+
+#EXTINF:-1,EuroSports 2 FHD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/671328
+
+#EXTINF:-1,Eurosports 2 HD UK
+http://mytv.fun:8080/DCalqazxqw/YEF3kbkaKm/671398
+
+#EXTINF:-1,BT Sport 1 HD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677901
+
+#EXTINF:-1,BT Sport 2 HD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677902
+
+#EXTINF:-1,BT Sport 3 HD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/677903
+
+#EXTINF:-1,BT Sport Extra 1 UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/6641
+
+#EXTINF:-1,BT Sport Extra 2 UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/6640
+
+#EXTINF:-1,BT Sport Extra 3 UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/7918
+
+#EXTINF:-1,BT Sport Extra 4 UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/7917
+
+#EXTINF:-1,BT Sport ESPN FHD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/6643
+
+#EXTINF:-1,BT Sport ESPN HD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/15738
+
+#EXTINF:-1,Eurosports 1 FHD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/671327
+
+#EXTINF:-1,Eurosports 1 HD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/6609
+
+#EXTINF:-1,EuroSports 2 FHD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/671328
+
+#EXTINF:-1,Eurosports 2 HD UK
+http://mytv.fun:8080/iqhrsbyhea/ysu6ax1k2f/671398
+
+#EXTINF:-1,BT Sport 1 HD UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/677901
+
+#EXTINF:-1,BT Sport 2 HD UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/677902
+
+#EXTINF:-1,BT Sport 3 HD UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/677903
+
+#EXTINF:-1,BT Sport ESPN HD UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/15738
+
+#EXTINF:-1,Eurosports 1 FHD UK
+http://mytv.fun:8080/lavdrim/pu2fytknk/671327
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Eurosports 1 FHD UK
 http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/671327
 
 #EXTINF:-1,Eurosports 1 HD UK
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/6609
+http://mytv.fun:8080/lavdrim/pu2fytknk/6609
 
 #EXTINF:-1,EuroSports 2 FHD UK
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/671328
+http://mytv.fun:8080/lavdrim/pu2fytknk/671328
 
 #EXTINF:-1,Eurosports 2 HD UK
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/671398
-
-#EXTINF:-1,SPORTS | NBA TV HD
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/5450
-
-#EXTINF:-1,Cartoon Network FHD US
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/4886
-
-#EXTINF:-1,Cartoon Network HD US
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/14387
-
-#EXTINF:-1,Cartoon Network FHD UK
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/671326
-
-#EXTINF:-1,Cartoon Network HD UK
-http://mytv.fun:8080/cgybk15dzr/jrsgjy0e587/15781
+http://mytv.fun:8080/lavdrim/pu2fytknk/671398
